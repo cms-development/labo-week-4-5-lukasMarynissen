@@ -7,9 +7,10 @@ web/app/uploads/*
 !web/app/uploads/.gitkeep
 
 # WordPress
-web/wp
-!web/wp/wp-content/mu-plugins/
-!web/wp/wp-content/plugins/
+web/wp/*
+web/wp/wp-admin
+web/wp/wp-includes
+web/wp/wp-content/*
 !web/wp/wp-content/themes/
 web/.htaccess
 
