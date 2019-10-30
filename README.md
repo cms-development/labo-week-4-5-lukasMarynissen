@@ -21,7 +21,7 @@ Daarna start u de wordpress server met
 wp server
 ```
 
-Open de folder 'app' in een nieuw terminalvenster installeer alle depencies met
+Open de folder 'app' in een nieuw terminalvenster en installeer alle depencies met
 ```
 yarn install
 ```
