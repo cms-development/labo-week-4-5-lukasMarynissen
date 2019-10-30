@@ -8,6 +8,9 @@ web/app/uploads/*
 
 # WordPress
 web/wp
+!wp-content/mu-plugins/
+!wp-content/plugins/
+!wp-content/themes/
 web/.htaccess
 
 # Logs
