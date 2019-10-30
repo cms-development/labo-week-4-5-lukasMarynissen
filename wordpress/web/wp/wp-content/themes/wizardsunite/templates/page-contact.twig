@@ -1,0 +1,28 @@
+{% extends "base.twig" %}
+{% block content %}
+
+    <div class="container">
+
+        <!-- cards level 1-->
+        <div class="row">
+            <!-- card 1.1 -->
+            <div class="col-12 col-md-3">
+                <h2>Sidebar</h2>
+                <p>Widget Area Left sidebar</p>
+            </div>
+            <div class="col-12 col-md-9">
+                <h2>Word ook een fan</h2>
+                <p>
+                    {{post.content}}
+
+                </p>
+
+            </div>
+
+
+        </div>
+        <!-- end row-->
+
+    </div>
+
+{% endblock %}

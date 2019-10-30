@@ -2,61 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="535a5ca5-d0d3-4845-a2c9-d18b92b4c3e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/Add.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/Detail.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/Edit.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/Home.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/components/creatures.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../app/yarn.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/contact.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/creatures.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../screenshots/home.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/issues.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/bedrock.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/application.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/environments/development.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/environments/staging.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/phpcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/app/mu-plugins/bedrock-autoloader.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/app/mu-plugins/disallow-indexing.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/app/mu-plugins/register-theme-directory.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/app/plugins/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/app/themes/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/app/uploads/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/wp-config.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-cli.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +76,7 @@
       <updated>1571683950000</updated>
       <workItem from="1571683951106" duration="4830000" />
       <workItem from="1572087674836" duration="4037000" />
-      <workItem from="1572361661219" duration="1736000" />
+      <workItem from="1572361661219" duration="1857000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,19 @@
+{% extends "base.twig" %}
+{% block content %}
+    <div class="container">
+        <div class="row cards">
+
+            <div class="col-12">
+                <h2>Magical Creatures</h2>
+                <p>The following Foundables can be found in the Care of Magical Creatures category of the Registry in Harry Potter: Wizards Unite.</p>
+            </div>
+
+            {% for post in creatures %}
+                {% include "./partial/creature.twig" with {creature:post} %}
+            {% endfor %}
+
+            </div>
+
+        </div>
+    </div>
+{% endblock %}
